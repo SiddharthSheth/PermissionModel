@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Permission Model</string>
+    <string name="request_multiple_permissions">Request Multiple Permissions</string>
+    <string name="request_permission_on_fragment">Request Permission on Fragment</string>
+    <string name="single_permission_text">(Click on FAB to check Single permission.\nTo test again, change the app permission in settings or reinstall the app)</string>
+    <string name="check_permissions">Check Permissions</string>
+</resources>
